@@ -103,10 +103,10 @@ For demonstration and assessment purposes, the entire pipeline can be executed u
 chmod +x run_all.sh
 ./run_all.sh
 This script sequentially runs:
-1.	Data preprocessing
-2.	Model training
-3.	Explainability generation
-4.	Dashboard launch
+   Data preprocessing
+   Model training
+   Explainability generation
+   Dashboard launch
 ________________________________________
 10. Dashboard Features
 The Streamlit dashboard provides:
@@ -151,3 +151,4 @@ ________________________________________
 Student: Shrikant More
 Programme: BSc (Hons) Cybersecurity & Networks
 Institution: Teesside University (MDIS)
+
